@@ -1,4 +1,4 @@
-I recently graduated from the University of Southern California, where I received a degree in Mathematics and competed in Division I NCAA Men's Water Polo for four years. Currently, I am focusing my research on exploring the applications of self-supervised learning outside of NLP, specifically through the use of joint embedding predictive architectures.
+I recently graduated from the University of Southern California, where I received a degree in Mathematics and played Division I NCAA Men's Water Polo. Currently, I am focusing my research on exploring the applications of self-supervised learning, specifically through the use of joint embedding predictive architectures.
 
 <!--
 **garrettallen14/garrettallen14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
